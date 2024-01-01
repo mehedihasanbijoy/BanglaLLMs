@@ -1,4 +1,4 @@
-<h1 align="center">BanglaNLP</h1>
+<h1 align="center">BanglaLLMs</h1>
 <p align="center">
   An LLM-based library for Bangla language processing
 </p>
