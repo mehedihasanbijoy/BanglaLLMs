@@ -1,14 +1,16 @@
 <h1 align="center">BanglaLLMs</h1>
 <p align="center">
-  An LLM-based library for Bangla language processing
+  A collection of fine-tuned LLMs for Bangla language processing
 </p>
 
 ---
 **Contents**
 ---
-- [ ] Lemmatizer
-- [ ] Word Embedding
-- [ ] BanglaLLM
+- **Text Classification**
+  - [ ] BERT
+- **Zero-Shot Text Classification**
+- **Text2Text Generation**
+- **Automatic Speech Recognition**
 ---
 
 
