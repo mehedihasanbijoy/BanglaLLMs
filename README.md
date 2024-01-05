@@ -7,7 +7,7 @@
 **Contents**
 ---
 - **Text Classification**
-  - [ ] BERT
+  - [x] BERT
   - [ ] BERT + Lemmatizer
   - [ ] DistilBERT
 - **Zero-Shot Text Classification**
