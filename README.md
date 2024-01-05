@@ -8,8 +8,12 @@
 ---
 - **Text Classification**
   - [ ] BERT
+  - [ ] BERT + Lemmatizer
+  - [ ] DistilBERT
 - **Zero-Shot Text Classification**
-- **Text2Text Generation**
+- **Lemmatizer**
+  - [ ] T5-Small
+  - [ ] Flan-T5-Base
 - **Automatic Speech Recognition**
 ---
 
